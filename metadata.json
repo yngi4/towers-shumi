@@ -1,0 +1,5 @@
+{
+  "name": "Bot Defense",
+  "description": "A micro-format isometric Tower Defense game with a hero robot, designed for quick sessions.",
+  "requestFramePermissions": []
+}
